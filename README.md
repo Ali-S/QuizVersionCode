@@ -1,6 +1,0 @@
-# QuizVersionCode
-'''java
-
-@String
-
-'''
